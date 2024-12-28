@@ -1,0 +1,6 @@
+# JAVA开发的uniapp 技术栈充钱包提币 H5撮合区块链交易所\BTC\C2C\多语言\币币
+
+您通过任何渠道获得本交易所源码仅供个人或您公司在法律允许的范围内使用！<br>本系统源码的客户端不支持中国大陆地区ip用户注册及使用！不支持中国大陆地区手机号注册！不支持中国大陆地区身份证认证！<br>若您不同意上述声明，请不要购买！<br>注意：因交易所工程量巨大，涉及东西较多，建议java技术或者全栈工程师购买，技术小白勿扰。<br>纯JAVA开发，并发性能优异，带交易机器人，戳合引擎，锁仓机制。<br>源码包含：Java后端代码、代理商java代码、机器人java代码、前端vue+UNIAPP+H5源码。<br>提供部署教程，也可以联系商家部署，不过部署过程中需要的服务器、域名等需要买家配合，<br>注意：需要二次开发及其他服务请联系客服。<br>再次注意：购买之前请了解清楚，小白用户、啥都不懂的不要购买！<br>测试Demo：<br>前端PC站：example.com前端H5站：example.com代理商登录：example.com/测试账号：ovouvogh@example.com：123456管理员测试：example.com账号：admin密码：123456安全码：123456<br>功能包含<br>1、币币交易<br>2、期权交易 （交割周期设置，费率设置）<br>    3、APP热更新 （支持热更新）<br>4、权限管理 （用户管理，角色管理，部门管理，菜单管理，岗位管理）<br>    5、代理功能 （独立代理后台，邀请机制，手续费返佣）<br>6、钱包管理 （充值明细，提币审核，交易流水，用户钱包）<br>7、内容管理（全站的内容管理，支持多语言功能）<br>8、全站多语言功能（英文，简体中文，繁体中文，日本语，韩语）<br>    9、主题切换（白天模式和暗夜模式）<br>   <br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/QZ4Zl" style="color: red;">https://mega-file.org/QZ4Zl</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
